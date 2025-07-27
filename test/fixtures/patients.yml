@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_id: MyString
+  study: one
+  status: MyString
+  enrollment_date: 2025-07-27
+  screening_date: 2025-07-27
+  demographics: 
+
+two:
+  patient_id: MyString
+  study: two
+  status: MyString
+  enrollment_date: 2025-07-27
+  screening_date: 2025-07-27
+  demographics: 

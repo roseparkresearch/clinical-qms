@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  visit_number: 1
+  visit_name: MyString
+  visit_date: 2025-07-27
+  status: MyString
+  visit_window_start: 2025-07-27
+  visit_window_end: 2025-07-27
+
+two:
+  patient: two
+  visit_number: 1
+  visit_name: MyString
+  visit_date: 2025-07-27
+  status: MyString
+  visit_window_start: 2025-07-27
+  visit_window_end: 2025-07-27

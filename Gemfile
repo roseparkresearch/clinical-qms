@@ -13,7 +13,7 @@ gem "puma", ">= 5.0"
 # gem "bcrypt", "~> 3.1.7"
 
 # Authentication and authorization
-gem "omniauth", "~> 2.0"
+gem "omniauth", "~> 2.1"
 gem "omniauth-rails_csrf_protection"
 gem "omniauth-microsoft_graph"
 gem "omniauth-google-oauth2"
